@@ -139,5 +139,3 @@ The dashboard provides an intuitive interface to explore and analyze banking dat
 
 ## Conclusion
 The Banking Analysis Power BI Dashboard is a powerful tool for financial analysis and decision-making. By leveraging data from multiple sources and using DAX queries to calculate key metrics, it provides valuable insights into banking relationships, client demographics, and financial performance.
-
-[Author](https://github.com/pkanphade)
